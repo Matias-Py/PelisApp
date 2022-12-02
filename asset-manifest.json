@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/PelisApp/static/css/main.accc2648.css",
-    "main.js": "/PelisApp/static/js/main.539c11f2.js",
+    "main.css": "/PelisApp/static/css/main.7da40b9d.css",
+    "main.js": "/PelisApp/static/js/main.0b6f8912.js",
     "index.html": "/PelisApp/index.html",
-    "main.accc2648.css.map": "/PelisApp/static/css/main.accc2648.css.map",
-    "main.539c11f2.js.map": "/PelisApp/static/js/main.539c11f2.js.map"
+    "main.7da40b9d.css.map": "/PelisApp/static/css/main.7da40b9d.css.map",
+    "main.0b6f8912.js.map": "/PelisApp/static/js/main.0b6f8912.js.map"
   },
   "entrypoints": [
-    "static/css/main.accc2648.css",
-    "static/js/main.539c11f2.js"
+    "static/css/main.7da40b9d.css",
+    "static/js/main.0b6f8912.js"
   ]
 }
