@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PelisApp/static/css/main.ccda01fd.css",
+    "main.js": "/PelisApp/static/js/main.e3165e53.js",
+    "index.html": "/PelisApp/index.html",
+    "main.ccda01fd.css.map": "/PelisApp/static/css/main.ccda01fd.css.map",
+    "main.e3165e53.js.map": "/PelisApp/static/js/main.e3165e53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccda01fd.css",
+    "static/js/main.e3165e53.js"
+  ]
+}
